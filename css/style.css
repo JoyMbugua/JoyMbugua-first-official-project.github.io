@@ -706,6 +706,7 @@ html, body {
   :root {
     --hero-scale: 0.5;
   }
+	.hero{margin-top:0px;}
   .kreate-animating-background{width:10%;
   height:5vh;}
   .kreate-centere-text{width:180vw;
@@ -770,4 +771,5 @@ html, body {
   transform: translateX(-92%);
   transform-origin: -35% -40%  !important;
   }
+
 }
