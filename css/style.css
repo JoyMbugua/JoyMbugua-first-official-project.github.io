@@ -636,7 +636,7 @@ html, body {
   :root {
     --hero-scale: 0.8;
   }
-	.hero{margin-top:0px;}
+	.hero{margin-top:-20px;}
   .kreate-animating-background{width:10%;
   height:5vh;}
   .kreate-centere-text{width:200vw;
@@ -655,7 +655,7 @@ html, body {
   :root {
     --hero-scale: 0.8;
   }
-	.hero{margin-top:0px;}
+	.hero{margin-top:-20px;}
   .kreate-animating-background{width:10%;
   height:5vh;}
   .kreate-centere-text{width:200vw;
@@ -674,7 +674,7 @@ html, body {
   :root {
     --hero-scale: 0.54;
   }
-	.hero{margin-top:0px;}
+	.hero{margin-top:-20px;}
   .kreate-animating-background{width:10%;
   height:5vh;}
   .kreate-centere-text{width:180vw;
@@ -692,7 +692,7 @@ html, body {
   :root {
     --hero-scale: 0.53;
   }
-	.hero{margin-top:0px;}
+	.hero{margin-top:-20px;}
   .kreate-animating-background{width:10%;
   height:5vh;}
   .kreate-centere-text{width:180vw;
@@ -710,7 +710,7 @@ html, body {
   :root {
     --hero-scale: 0.5;
   }
-	.hero{margin-top:0px;}
+	.kreate-hero-section{margin-top:-20px;}
   .kreate-animating-background{width:10%;
   height:5vh;}
   .kreate-centere-text{width:180vw;
@@ -729,7 +729,7 @@ html, body {
   :root {
     --hero-scale: 0.5;
   }
-	.hero{margin-top:0px;}
+	.kreate-hero-section{margin-top:-20px;}
   .kreate-animating-background{width:10%;
   height:5vh;}
   .kreate-mischief-text{
@@ -780,4 +780,5 @@ html, body {
   }
 
 }
+
 
